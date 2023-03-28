@@ -19,3 +19,5 @@ https://www.youtube.com/watch?v=JRsdt05pMoI
 
 https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/2ebbc8cc4bc9adc3418a572a17331f63_MIT16_410F10_lec21.pdf
 
+https://fr.wikipedia.org/wiki/Algorithme_de_Baum-Welch
+
