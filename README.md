@@ -21,3 +21,6 @@ https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fa
 
 https://fr.wikipedia.org/wiki/Algorithme_de_Baum-Welch
 
+https://www.inf.ed.ac.uk/teaching/courses/asr/2018-19/asr03-hmmgmm-handout.pdf : EM on Gaussian Mixture Model HMM
+
+
