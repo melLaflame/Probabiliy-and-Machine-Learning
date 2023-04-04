@@ -25,4 +25,6 @@ https://www.inf.ed.ac.uk/teaching/courses/asr/2018-19/asr03-hmmgmm-handout.pdf :
 
 https://f.hubspotusercontent40.net/hubfs/8111846/Unicon_October2020/pdf/bilmes-em-algorithm.pdf EM on HMM detailed 
 
+http://ema.cri-info.cm/wp-content/uploads/2019/07/SupportHMM_iloga_EMA2019.pdf
+
 
