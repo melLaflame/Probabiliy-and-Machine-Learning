@@ -27,4 +27,5 @@ https://f.hubspotusercontent40.net/hubfs/8111846/Unicon_October2020/pdf/bilmes-e
 
 http://ema.cri-info.cm/wp-content/uploads/2019/07/SupportHMM_iloga_EMA2019.pdf
 
+http://math.univ-lille1.fr/~calgaro/TER_2018/wa_files/guilbaut_belotti.pdf
 
