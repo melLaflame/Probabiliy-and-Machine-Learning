@@ -29,3 +29,7 @@ http://ema.cri-info.cm/wp-content/uploads/2019/07/SupportHMM_iloga_EMA2019.pdf
 
 http://math.univ-lille1.fr/~calgaro/TER_2018/wa_files/guilbaut_belotti.pdf
 
+Avancement:
+
+- Rédaction de l'algorithme EM jusqu'au calcul des omega_i... problème pour les algos forward et backward parce que les les loi sachant les Xk sont pas discret mais gaussiens.
+
